@@ -6,6 +6,12 @@ I am wrapping up my 4th year of CS at the University of Toronto. Currently, I am
 - Research with [CSSLab](https://csslab.cs.toronto.edu/) at the University of Toronto
 - Social Media for the [_In the Loop_](https://dcs-utoronto-in-the-loop.simplecast.com/) podcast
 
+Next term I am planning on taking...
+- **CSC428:** Human Computer Interaction
+- **CSC413:** Neural Networks and Deep Learning
+- **CSC300:** Computers & Society
+- **STA414:** Statistical Methods for Machine Learning II
+
 Checkout my [personal website](https://helenaglow.github.io/) for a bit more about me! (_It might still be under construction_)
 
 
