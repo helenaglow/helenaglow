@@ -1,6 +1,14 @@
 ### Hello! My name is Helena 🌱
 
-Checkout my [personal website](https://helenaglow.github.io/) for a bit more about me. (_It is still under construction_)
+I am wrapping up my 4th year of CS at the University of Toronto. Currently, I am working on...
+- **CSC486:** Knowledge Representation and Reasoning
+- **STA304:** Surveys, Sampling and Observational Data
+- Research with [CSSLab](https://csslab.cs.toronto.edu/) at the University of Toronto
+- Social Media for the [_In the Loop_](https://dcs-utoronto-in-the-loop.simplecast.com/) podcast
+
+Checkout my [personal website](https://helenaglow.github.io/) for a bit more about me! (_It might still be under construction_)
+
+
 <!--
 **helenaglow/helenaglow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
