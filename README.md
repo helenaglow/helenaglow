@@ -1,6 +1,6 @@
 ### Hello! My name is Helena 🌱
 
-Checkout my [personal website](helenaglow.github.io) for a bit more about me. (_It is still under construction_)
+Checkout my [personal website](https://helenaglow.github.io/) for a bit more about me. (_It is still under construction_)
 <!--
 **helenaglow/helenaglow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
