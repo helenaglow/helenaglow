@@ -1,4 +1,4 @@
-### Hello! My name is Helena 🌱
+### Hello! I'm Helena 🌱
 
 I am wrapping up my 4th year of CS at the University of Toronto. This year, I am learning...
 - **CSC486:** Knowledge Representation and Reasoning
