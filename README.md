@@ -1,4 +1,4 @@
-### Hello! I'm Helena 🌱
+### Hello! I'm Helena
 
 I am wrapping up my 4th year of CS at the University of Toronto. This year, I am learning...
 - **CSC486:** Knowledge Representation and Reasoning
@@ -14,6 +14,8 @@ I am also working on...
 - Social media for the [_In the Loop_](https://dcs-utoronto-in-the-loop.simplecast.com/) podcast
 
 Checkout my [personal website](https://helenaglow.github.io/) for a bit more about me! (_It might still be under construction_)
+
+<img width="1351" height="123" alt="Group 30 (1)" src="https://github.com/user-attachments/assets/38d2174c-bede-4b9f-bd99-662b587b2045" />
 
 
 <!--
