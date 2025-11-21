@@ -9,9 +9,9 @@ I am wrapping up my 4th year of CS at the University of Toronto. This year, I am
 - **STA304:** Surveys, Sampling and Observational Data
 - **VIC245:** Science Wars: Society and the Limits of Scientific Knowledge (Quite a fun course!)
 
-I am also working working on...
+I am also working on...
 - Research with [CSSLab](https://csslab.cs.toronto.edu/) at the University of Toronto
-- Social Media for the [_In the Loop_](https://dcs-utoronto-in-the-loop.simplecast.com/) podcast
+- Social media for the [_In the Loop_](https://dcs-utoronto-in-the-loop.simplecast.com/) podcast
 
 Checkout my [personal website](https://helenaglow.github.io/) for a bit more about me! (_It might still be under construction_)
 
