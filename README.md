@@ -7,7 +7,7 @@ I am wrapping up my 4th year of CS at the University of Toronto. This year, I am
 - **CSC300:** Computers & Society
 - **STA414:** Statistical Methods for Machine Learning II
 - **STA304:** Surveys, Sampling and Observational Data
-- **VIC245:** Science Wars: Society and the Limits of Scientific Knowledge (Quite a fun course!)
+- **VIC245:** Science Wars: Society and the Limits of Scientific Knowledge 
 
 I am also working on...
 - Research with [CSSLab](https://csslab.cs.toronto.edu/) at the University of Toronto
