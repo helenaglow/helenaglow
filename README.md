@@ -1,13 +1,10 @@
 ### Hello! I'm Helena 🌱
 
-I am wrapping up my 4th year of CS at the University of Toronto. This year, I am learning...
-- **CSC486:** Knowledge Representation and Reasoning
-- **CSC428:** Human Computer Interaction
+I am wrapping up my 4th year of CS at the University of Toronto. I am currently learning...
+- **CSC428:** Human-Computer Interaction
 - **CSC413:** Neural Networks and Deep Learning
 - **CSC300:** Computers & Society
 - **STA414:** Statistical Methods for Machine Learning II
-- **STA304:** Surveys, Sampling and Observational Data
-- **VIC245:** Science Wars: Society and the Limits of Scientific Knowledge 
 
 I am also working on...
 - Research with [CSSLab](https://csslab.cs.toronto.edu/) at the University of Toronto
