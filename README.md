@@ -3,10 +3,10 @@
 I am wrapping up my 4th year of CS at the University of Toronto. I am currently learning...
 - **CSC428:** Human-Computer Interaction
 - **CSC413:** Neural Networks and Deep Learning
-- **CSC495:** Designing AI for Game Generation supervised by Professor Steve Engels
 - **CSC300:** Computers & Society
 
 I am also working on...
+- Research project supervised by Professor Steve Engels through CSC495
 - Research with [CSSLab](https://csslab.cs.toronto.edu/) at the University of Toronto
 - Social media for the [_In the Loop_](https://dcs-utoronto-in-the-loop.simplecast.com/) podcast
 
