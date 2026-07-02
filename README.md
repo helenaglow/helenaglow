@@ -1,16 +1,10 @@
 ### Hello! I'm Helena 🌱
 
-I am wrapping up my 4th year of CS at the University of Toronto.
+I am an incoming MSc CS student at the University of Toronto. 
 
-#### I am currently learning...
-- **CSC428:** Human-Computer Interaction
-- **CSC413:** Neural Networks and Deep Learning
-- **CSC300:** Computers & Society
-
-#### I am also working on...
-- Research project supervised by Professor Steve Engels through CSC495
-- Research with [CSSLab](https://csslab.cs.toronto.edu/) at the University of Toronto
-- Social media for the [_In the Loop_](https://dcs-utoronto-in-the-loop.simplecast.com/) podcast
+#### I am currently working on...
+- Research project supervised by Professor Steve Engels (continuing from CSC495)
+- Research with [CSSLab](https://csslab.cs.toronto.edu/) at the University of Toronto (LLMs & Creativity, LLM-mediated communication)
 
 Checkout my [personal website](https://helenaglow.github.io/) for a bit more about me! (_It might still be under construction_)
 
