@@ -3,7 +3,7 @@
 I am an incoming MSc CS student at the University of Toronto. 
 
 #### I am currently working on...
-- Research project supervised by Professor Steve Engels (continuing from CSC495)
+- Research project supervised by Professor Steve Engels (CSC495)
 - Research with [CSSLab](https://csslab.cs.toronto.edu/) at the University of Toronto (LLMs & Creativity, LLM-mediated communication)
 
 Checkout my [personal website](https://helenaglow.github.io/) for a bit more about me! (_It might still be under construction_)
